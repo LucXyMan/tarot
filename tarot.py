@@ -90,7 +90,7 @@ def __tarot():
     is_reverse = bool(__random.getrandbits(1))
     return (
         u"{number}: {name}の{position}\n"
-        u"概要: {overview}"u"\n"
+        u"概要: {overview}\n"
         u"{position}の意味: {meaning}".format(
             number=number, name=name,
             position=(u"正位置", u"逆位置")[is_reverse],
