@@ -1,6 +1,5 @@
 # tarot
 Copyright(c)2019 黒尾幸男
-Japanese version only.
 
 ## 概要
 簡単なタロット占いプログラムです。
