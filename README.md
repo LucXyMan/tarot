@@ -13,3 +13,7 @@ Japanese version only.
 ## 使い方
 
 	$ python tarot.py
+
+## ライセンス
+
+[BSD](/LICENSE.md)
