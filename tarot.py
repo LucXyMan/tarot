@@ -14,8 +14,8 @@ def __tarot():
     u"""タロット占術関数。
     タロットカード文字列を取得。
     """
-    import random as __random
     import functools as __functools
+    import random as __random
 
     arcanum = ((
         u"愚者", u"夢想#愚行#極端#熱狂", (
