@@ -1,5 +1,6 @@
 # tarot
-Copyright(c)2019 黒尾幸男
+
+![tarot_uranai_woman](https://user-images.githubusercontent.com/57517931/68540166-ec413a00-03d0-11ea-8df1-ec6941586f32.png)
 
 ## 概要
 簡単なタロット占いプログラムです。
@@ -16,3 +17,6 @@ Copyright(c)2019 黒尾幸男
 ## ライセンス
 
 [BSD](/LICENSE.md)
+
+## 書いた人
+Copyright(c)2019 黒尾幸男
