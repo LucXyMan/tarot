@@ -19,4 +19,4 @@
 [BSD](/LICENSE.md)
 
 ## 書いた人
-Copyright(c)2019 黒尾幸男
+Copyright(c)2019 [黒尾幸男](https://github.com/LucXyMan)
