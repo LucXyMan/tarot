@@ -16,7 +16,7 @@
 
 ## ライセンス
 
-[BSD 3-Clause License](/LICENSE.md)
+[BSD 3-Clause License](/LICENSE)
 
 ## 書いた人
 Copyright(c)2019 [黒尾幸男](https://github.com/LucXyMan)
